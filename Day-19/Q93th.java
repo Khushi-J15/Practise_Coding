@@ -1,5 +1,4 @@
 // 3619. Count Islands With Total Value Divisible by K
-
 class 93th{
     int m, n;
 
